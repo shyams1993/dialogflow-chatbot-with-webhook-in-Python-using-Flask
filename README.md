@@ -8,3 +8,4 @@ web service framework : Flask
 language : Python
 bot platform : Google Dialogflow
 type of program : webhook
+server deployment app: ngrok desktop app
